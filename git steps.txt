@@ -12,7 +12,10 @@ steps to git
 how to set global variables in git 
 1.$ git config --global user.email ddeepak8894@gmail.com
 2.git config --global user.name ddeepak8894
-
+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
 how to push newly created branch to github
  git push --set-upstream origin vithal
+
+===============================using github token
+
 
