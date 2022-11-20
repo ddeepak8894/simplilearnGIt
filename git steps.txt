@@ -1,0 +1,18 @@
+i love krushna
+and also vithal
+steps to git 
+
+1.git init
+2.git add file_name
+3.git commit -m ""
+4.git branch -M "krushna"
+5.git remote add origin "https://github.com/ddeepak7794/simplilearnGit"
+6.git push -u origin krushna
+
+how to set global variables in git 
+1.$ git config --global user.email ddeepak8894@gmail.com
+2.git config --global user.name ddeepak8894
+
+how to push newly created branch to github
+ git push --set-upstream origin vithal
+
