@@ -9,6 +9,7 @@ public class LoginPage {
 		// TODO Auto-generated method stub
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://mail.rediff.com/cgi-bin/login.cgi");
+		driver.close();
 
 	}
 
